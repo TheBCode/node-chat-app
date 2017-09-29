@@ -60,9 +60,3 @@ typings/
 .env
 
 
-.idea/inspectionProfiles/
-.idea/markdown-navigator/
-.idea/modules.xml
-.idea/node-chat-app.iml
-.idea/workspace.xml
-package.json
